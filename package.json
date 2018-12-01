@@ -1,0 +1,12 @@
+{
+  "name": "@j.u.p.iter/tsconfig",
+  "version": "1.0.1",
+  "description": "Shared TypeScript config for my projects",
+  "main": "tsconfig.json",
+  "repository": "git@github.com:j-u-p-iter/tsconfig.git",
+  "author": "Leontyev Kirill (j.u.p.iter) <pn79122821224@gmail.com> (http://j-u-p-iter.pro/)",
+  "license": "MIT",
+  "files": [
+    "tsconfig.json"
+  ]
+}
